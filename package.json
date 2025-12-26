@@ -39,6 +39,7 @@
 	},
 	"dependencies": {
 		"@fingerprintjs/fingerprintjs": "^5.0.1",
+		"@sveltejs/adapter-netlify": "^5.2.4",
 		"valibot": "^1.2.0"
 	}
 }
